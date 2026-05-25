@@ -1,0 +1,6 @@
+{
+  "name": "Hotspot Automator",
+  "description": "Automatically toggles Wi-Fi hotspot when connecting to configured Bluetooth devices (like car systems).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
